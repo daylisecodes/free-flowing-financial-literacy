@@ -14,4 +14,4 @@
 - No login, account, database, file upload, bank connection, brokerage connection, or credit-report connection.
 - Learning-tool entries are browser-side only in this build.
 - No contact form is included.
-- Vercel Web Analytics is prepared for the public deployment and disclosed in the Privacy Policy.
+- Vercel Web Analytics is enabled on the public deployment and disclosed in the Privacy Policy.

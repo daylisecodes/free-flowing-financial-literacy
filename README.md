@@ -39,7 +39,7 @@ The goal is to make foundational money concepts easier to understand through a c
 - CSS3
 - Vanilla JavaScript
 - Node.js local development server
-- Vercel static hosting (live deployment)
+- Vercel static hosting + Web Analytics (live deployment)
 
 ## Privacy and responsible-design choices
 
@@ -78,4 +78,4 @@ Before a public release, also follow `PROJECT_QA_CHECKLIST.md` and `DEPLOYMENT_C
 
 ## Portfolio summary
 
-**Free Flowing Financial Literacy** demonstrates interactive financial-education tools, calculations, form validation, quizzes, conditional UI states, responsive design, accessibility-conscious front-end work, privacy-first product decisions, source attribution, and public deployment preparation.
+**Free Flowing Financial Literacy** demonstrates interactive financial-education tools, calculations, form validation, quizzes, conditional UI states, responsive design, accessibility-conscious front-end work, privacy-first product decisions, source attribution, and public deployment and production launch.
