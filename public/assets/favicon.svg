@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Free Flowing Financial Literacy mark">
+<rect width="64" height="64" rx="16" fill="#173f4f"/>
+<path d="M10 23 C20 16, 28 30, 38 23 S54 16, 58 23" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<path d="M10 39 C20 32, 28 46, 38 39 S54 32, 58 39" fill="none" stroke="#ead7b5" stroke-width="4" stroke-linecap="round"/>
+<path d="M32 15v34M23 27h18" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>
