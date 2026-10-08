@@ -4,7 +4,7 @@ A faith-centered, privacy-conscious financial education web app built as a publi
 
 ## Live demo
 
-**Vercel:** Add the final `https://<project>.vercel.app` URL after deployment.
+**Live demo:** https://free-flowing-financial-literacy.vercel.app
 
 ## Why I built it
 
@@ -39,7 +39,7 @@ The goal is to make foundational money concepts easier to understand through a c
 - CSS3
 - Vanilla JavaScript
 - Node.js local development server
-- Vercel static hosting + Web Analytics (planned public deployment)
+- Vercel static hosting (live deployment)
 
 ## Privacy and responsible-design choices
 
