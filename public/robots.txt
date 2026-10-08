@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://free-flowing-financial-literacy.vercel.app/sitemap.xml
